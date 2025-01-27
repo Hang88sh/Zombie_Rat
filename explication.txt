@@ -1,0 +1,9 @@
+Bienvenue à la Place du Roi ! Après un massacre, les cadavres qui auraient dû périr se sont relevés. La Petite Souris Masquée doit vaincre ces zombies et sauver les villageois !
+
+Commandes 
+
+WSAD pour se déplacer
+Clic gauche de la souris pour attaquer avec un coup de pied
+Donnez un coup de pied aux caisses pour les faire voler et attaquer les zombies. Chaque zombie a 3 points de vie (HP) et nécessite 3 attaques pour être éliminé. Il y a 2 zombies au total dans le niveau.
+
+Attention  le puits peut vous permettre de récupérer de la vie, utilisez-le judicieusement !
